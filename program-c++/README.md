@@ -1,46 +1,29 @@
-# programC++
-
-## Daftar Isi
-
-- [programC++](#programC++)
-  - [Daftar Isi](#daftar-isi)
-  - [About](#about)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installing](#installing)
-  - [Screeenshoot](#screenshoot)
+# program c++
 
 ## About
-Kumpulan **program C++** yang saya buat `semasa kuliah`. Semoga bisa menjadi contoh, referensi, atau dikembangkan bagi yang ingin belajar C++.
+A collection of **C++** programs that I made during college. Hopefully it can be an example or reference for those who want to learn C++.
 
 ## Getting Started
-Sebelum memulai, Instruksi dibawah ini akan memberikan and cara me-*copy* *program C++* dan me-*running* pada *local machine* anda baik di laptop atau PC.
+Before starting, the instructions below will show you how to *copy* *C++* programs and *running* on your *local machine* either on a laptop or PC.
 
 ### Prerequisites
-Software yang harus dibutuhkan dan sudah terinstall yaitu:
-
+The software that must be needed and already installed are:
 ```
 Dev-C++
 ```
 
 ### Installing
-Langkah demi langkah cara untuk menginstall project ini.
-
-1. Pastikan **Software yang dibutuhkan** sudah **terinstall**
-2. Download atau clone project ini
-Copy pada terminal misal dengan  Command Prompt
+Step by step how to install this project.
+1. Make sure **Software needed** is **installed**
+2. Download or clone this project
+Copy on the terminal for example with Command Prompt
 ```
-git clone https://github.com/reptr/programC++.git  /direktori project
+git clone https://github.com/reptr/tugas-c++/program-c++.git /project directory
 ```
 
-## Screenshoot
-Contoh program C++
-
+## Screenshot
+Example C++ program
 ![screenshoot C++](./screenshoot/SampleSSC++.PNG)
 
-Hasil compile & running program:
-
+The results of compiling & running the program:
 ![screenshoot runC++](./screenshoot/SampleSSC++Compile.PNG)
-
-## License
-MIT &copy; 2021

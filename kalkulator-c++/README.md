@@ -1,13 +1,10 @@
-# kalkulatorC++
+# Calculator C++
 
-## Tentang
-Program kalulator sederhana dibuat dengan **C++**. Software yang harus dibutuhkan dan sudah terinstall yaitu: `Dev-C++`.
+## About
+Simple calculator program made with **C++**. The software that must be needed and already installed is: `Dev-C++`.
 
-## Screenshoot
+## Screenshot
 ![screenshoot C++](./screenshoot/KalkulatorC++.PNG)
 
-Hasil compile & running program:
+The results of compiling & running the program:
 ![screenshoot runC++](./screenshoot/KalkulatorC++Running.PNG)
-
-## License
-MIT &copy; 2021 reptr

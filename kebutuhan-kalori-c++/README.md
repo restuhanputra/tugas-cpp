@@ -1,13 +1,10 @@
-# HitungKebutuhanKaloriC++
+# Calculate Calories Needed C++
 
-## Tentang
-Program untuk menghitung kebutuhan kalori sederhana dibuat dengan **C++**. Software yang harus dibutuhkan dan sudah terinstall yaitu: `Dev-C++`.
+## About
+Programs to calculate simple calorie needed are made with **C++**. The software that must be needed and already installed is: `Dev-C++`.
 
-## Screenshoot
+## Screenshot
 ![screenshoot C++](./screenshoot/PenghitungKalori.PNG)
 
-Hasil compile & running program:
+The results of compiling & running the program:
 ![screenshoot runC++](./screenshoot/PenghitungKaloriRunning.PNG)
-
-## License
-MIT &copy; 2021 reptr
